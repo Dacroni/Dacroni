@@ -21,7 +21,7 @@
 ║   
 ╟─◈ [Koulujuttuja :lock:](https://github.com/Dacroni/koulukoodei)   
 ║ &nbsp;&nbsp;└◈ [readme](./koulujuttuja.md)    
-║   
+╟─◈ [Trifles](https://github.com/Dacroni/trifles)   
 ║     
 ╙┤ Tekniikoita joihin olen edes hieman tutustunut ├──────────────────────────────────────────▰▰▰▰▰▰  
 
